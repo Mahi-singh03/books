@@ -83,7 +83,7 @@ export default function Home() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl"
           >
-            Organize Your <span className="text-indigo-600">Book Collection</span>
+             <span className="text-indigo-600">Book Collection</span>
           </motion.h1>
           <motion.p 
             initial={{ y: 20 }}
